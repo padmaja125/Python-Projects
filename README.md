@@ -29,4 +29,4 @@ pip install matplotlib
   * [Python Documentation](https://docs.python.org/3/tutorial)
   * [Pandas](https://pandas.pydata.org/docs)
   * [Matplotlib](https://matplotlib.org/stable/contents.html)
-  * [PyPI] (https://pypi.org/project)
+  * [PyPI](https://pypi.org/project)
