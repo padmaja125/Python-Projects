@@ -7,6 +7,7 @@
 ## Project Names :
     * Tic Toc Toe Game 
     * Student Data management with Password Protection
+    * Typewriting speed by using GUI 
     * Collecting Data from WebPage by Webscraping
     
 ## Package :
